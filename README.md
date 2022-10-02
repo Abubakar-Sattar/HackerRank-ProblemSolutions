@@ -1,7 +1,19 @@
-# HackerRank Problem Solutions
+# Hacktoberfest 2022
+## HackerRank Problems Solutions <br> <br> ![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
 
-![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
+### Feel free to use this project to make your first contribution to an open-source project on GitHub. <br><br> This repository is open to all members of the GitHub community. Any member can contribute to this project!
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg">
+## Guidelines
+* Only contribute a HackerRank Problem Solution.
 
-## Feel free to use this project to make your first contribution to an open-source project on GitHub. <br><br> This repository is open to all members of the GitHub community. Any member can contribute to this project!
+* Always create an issue before making a Pull Request.
+
+* The Program should be executable, with 0 errors and proper documentation.
+
+* Programs only written in Python, Java & C++ are allowed.
+
+* Do not add problem solution if it already exists.
+
+* Writing the author's name and the date modified is a must.
+
+![alt text](https://drive.google.com/file/d/1wN3p9qrhmmmXCshYjLQ5PByZFc9HIpNF/view?usp=sharing)
