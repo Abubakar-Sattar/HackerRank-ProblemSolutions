@@ -29,7 +29,7 @@
 2. Clone this Repository. <br>
 ```git clone https://github.com/<your-github-username>/HackerRank-ProblemSolutions```
 3. Navigate to the project directory. <br>
-```cd LeetCode-Problems-Solutions```
+```cd HackerRank-ProblemSolutions```
 4. Create a new branch. <br>
 ```git checkout -b <your_branch_name>```
 5. Make changes.
