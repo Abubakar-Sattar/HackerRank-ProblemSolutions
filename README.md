@@ -16,4 +16,4 @@
 
 * Writing the author's name and the date modified is a must.
 
-![alt text](https://drive.google.com/file/d/1wN3p9qrhmmmXCshYjLQ5PByZFc9HIpNF/view?usp=sharing)
+![alt text](https://user-images.githubusercontent.com/90573878/193465305-98a84b35-9c1a-4a27-8218-02e4017a2b21.png)
