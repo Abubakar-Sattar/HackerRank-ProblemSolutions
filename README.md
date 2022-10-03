@@ -23,26 +23,27 @@
 * Don't spam it will be rejected immediately.
 
 ## Steps for Contribution
-
-0. Star this Repository. <br>
-1. Fork this Repository. <br>
-2. Clone this Repository. <br>
+0. Add your name to the CONTRIBUTORS.md file
+1. Add a profile page to the profiles directory
+2. Star this Repository. <br>
+3. Fork this Repository. <br>
+4. Clone this Repository. <br>
 ```git clone https://github.com/<your-github-username>/HackerRank-ProblemSolutions```
-3. Navigate to the project directory. <br>
+5. Navigate to the project directory. <br>
 ```cd HackerRank-ProblemSolutions```
-4. Create a new branch. <br>
+6. Create a new branch. <br>
 ```git checkout -b <your_branch_name>```
-5. Make changes.
+7. Make changes.
 
-6. Stage your changes and commit
+8. Stage your changes and commit
 
 ```
 git add -A
 
 git commit -m "<your_commit_message>"
 ```
-7. Push your local commits to the remote repo. <br>
+9. Push your local commits to the remote repo. <br>
 ```git push -u origin <your_branch_name>```
-8. Create a Pull Request.
+10. Create a Pull Request.
 
 Congratulations! 🎉 you've made your contribution.
