@@ -9,3 +9,10 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+
+#### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed/HackerRank-ProblemSolutions/edit/main/CONTRIBUTORS.md)
+
+- Place: Rawalpindi, Pakistan
+- Bio: GDSC Lead
+- GitHub: [ilyas13ahmed](https://github.com/ilyas123ahmed/HackerRank-ProblemSolutions/edit/main/CONTRIBUTORS.md)
