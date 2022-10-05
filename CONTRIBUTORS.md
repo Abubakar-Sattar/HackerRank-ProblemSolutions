@@ -11,8 +11,8 @@
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
 
 
-#### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed/HackerRank-ProblemSolutions/edit/main/CONTRIBUTORS.md)
+#### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed)
 
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
-- GitHub: [ilyas13ahmed](https://github.com/ilyas123ahmed/HackerRank-ProblemSolutions/edit/main/CONTRIBUTORS.md)
+- GitHub: [ilyas13ahmed](https://github.com/ilyas123ahmed)
