@@ -9,3 +9,12 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+
+
+
+#### Name: [Junaid Asif](https://github.com/junaidasif-13)
+
+- Place: Rawalpindi, Pakistan
+- Bio: GDSC Member
+- GitHub: [junaidasif-13](https://github.com/junaidasif-13)
