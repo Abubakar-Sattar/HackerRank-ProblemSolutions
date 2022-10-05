@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Abdul Moiz Quddus](https://github.com/abdulmoizquddus)
+
+- Place: Rawalpindi, Pakistan
+- Bio: GDSC Lead
+- GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
