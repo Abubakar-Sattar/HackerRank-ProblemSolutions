@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Hammad UL Hassan](https://github.com/hammadulhassan123)
+
+- Place: Rawalpindi, Pakistan
+- Bio: GDSC Member
+- GitHub: [Hammad UL Hassan](https://github.com/hammadulhassan123)
