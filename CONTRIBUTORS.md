@@ -14,5 +14,5 @@
 #### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed)
 
 - Place: Rawalpindi, Pakistan
-- Bio: GDSC Lead
+- Bio: GDSC Member
 - GitHub: [ilyas13ahmed](https://github.com/ilyas123ahmed)
