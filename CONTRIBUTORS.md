@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Ubaid Ahmad](https://github.com/abdulmoizquddus)
+
+- Place: Islamabad, Pakistan
+- Bio: Data Science Intern at technocolab
+- GitHub: [ubaidahmadceh](https://github.com/ubaidahmadceh)
