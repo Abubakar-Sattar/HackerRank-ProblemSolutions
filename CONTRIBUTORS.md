@@ -9,3 +9,12 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+
+
+
+#### Name: [Usman Maqsood](https://github.com/abdulmoizquddus)
+
+- Place: Islamabad, Pakistan
+- Bio: python intern at eziline software house pvt ltd
+- GitHub: [UsmanMaqsood445](https://github.com/UsmanMaqsood445)
