@@ -13,8 +13,8 @@
 
 
 
-#### Name: [Junaid Asif](https://github.com/junaidasif-13/HackerRank-ProblemSolutions/edit/main/CONTRIBUTORS.md)
+#### Name: [Junaid Asif](https://github.com/junaidasif-13)
 
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Member
-- GitHub: [junaidasif-13](https://github.com/junaidasif-13/HackerRank-ProblemSolutions/edit/main/CONTRIBUTORS.md)
+- GitHub: [junaidasif-13](https://github.com/junaidasif-13)
