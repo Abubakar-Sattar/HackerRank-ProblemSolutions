@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Quote Generator</title>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+  </head>
+  <body>
+    <div class="content">
+      <button class="generate">generate quote</button>
+
+      <h3 class="dumquote">
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      </h3>
+      <h5>~ <span class="author"> Author</span></h5>
+    </div>
+    <script type="text/javascript">
+      (function () {
+        let btn = document.querySelector(".generate");
+
+        btn.addEventListener("click", function () {
+          fetch("https://type.fit/api/quotes")
+            .then(function (response) {
+              return response.json();
+            })
+            .then(function (data) {
+              let random = Math.floor(Math.random() * data.length);
+              let randomQuote = data[random];
+              document.querySelector(".dumquote").textContent =
+                randomQuote.text;
+              document.querySelector(".author").textContent = randomQuote.author;
+            });
+          
+        });
+      })();
+    </script>
+  </body>
+</html>
