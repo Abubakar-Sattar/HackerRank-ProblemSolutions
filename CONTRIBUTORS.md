@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Rufaeel Asad](https://github.com/RufaeelAsad)
+
+- Place: Rawalpindi, Pakistan
+- Bio: Student IUIC
+- GitHub: [RufaeelAsad](https://github.com/RufaeelAsad)
