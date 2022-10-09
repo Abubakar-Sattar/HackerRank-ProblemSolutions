@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Nabeel Ahmed](https://github.com/nabeelahmedjh)
+
+- Place: Hyderabad, Sindh
+- Bio: Core team member GDSC | Backend dev | Django
+- GitHub: [Nabeel Ahmed](https://github.com/nabeelahmedjh)
