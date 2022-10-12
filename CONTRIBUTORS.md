@@ -15,3 +15,9 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+
+#### Name: [Muhammad Shakeel](https://github.com/shakeel0581)
+
+- Place: Islamabad, Pakistan
+- Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
+- GitHub: [shakeel0581]([https://github.com/mahnoor26](https://github.com/shakeel0581))
