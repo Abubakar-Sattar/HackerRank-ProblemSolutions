@@ -15,3 +15,9 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+
+#### Name: [Humair Shoukat](https://github.com/humairshoukat)
+
+- Place: Islamabad, Pakistan
+- Bio: GDSC Lead 
+- GitHub: [humairshoukat](https://github.com/humairshoukat)
