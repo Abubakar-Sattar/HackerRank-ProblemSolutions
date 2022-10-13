@@ -18,6 +18,7 @@
 
 #### Name: [Muhammad Shakeel](https://github.com/shakeel0581)
 
-- Place: Islamabad, Pakistan
-- Bio: Exceptionally creative and dependable Professional Level Web and Mobile Developer with a stellar customer service record and superb work ethic. AWS | JavaScript 
+- Place: Faisalabad, Pakistan
+- Bio: Full Stack Software Engineer | NERN Stack | React Native | JavaScript/TypeScript | Cloud Evangelist | AWS Serveless Development & Deploymen
+- 
 - GitHub: [shakeel0581]([https://github.com/mahnoor26](https://github.com/shakeel0581))
