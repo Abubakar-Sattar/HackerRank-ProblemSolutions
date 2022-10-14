@@ -14,4 +14,4 @@ Bachelor of Science in Software Engineering.
 - HTML/CSS
 
 ### Profile
-- [MahnoorShoukat-dev](https://github.com/MahnoorShoukat)
+- [MahnoorShoukat](https://github.com/MahnoorShoukat)
