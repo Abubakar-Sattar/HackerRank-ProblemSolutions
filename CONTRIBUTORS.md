@@ -15,3 +15,9 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+
+#### Name: [Chetan Bogali](https://github.com/mahnoor26)
+
+- Place: Karnataka, India
+- Bio: Computer Scinece and Engineering Student 
+- GitHub: [chetanbogali](https://github.com/chetanbogali)
