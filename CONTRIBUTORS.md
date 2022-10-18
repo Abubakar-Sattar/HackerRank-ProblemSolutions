@@ -15,3 +15,9 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+
+#### Name: [Huzaifa Nizamani](https://github.com/HuzaifaNizamani)
+
+- Place: Hyderabad, Pakistan
+- Bio: GDSC Core Team Member
+- GitHub: [HuzaifaNizamani](https://github.com/HuzaifaNizamani)
