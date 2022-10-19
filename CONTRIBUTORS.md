@@ -15,3 +15,9 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+
+#### Name: [Sakshi Rai](https://github.com/Sakshirai273)
+
+- Place: India
+- Bio: Google cloud facilitaor program contributor | Web developer 
+- Github: [Sakshirai273](https://github.com/Sakshirai273)
