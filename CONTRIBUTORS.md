@@ -18,6 +18,6 @@
 
 #### Name: [Sakshi Rai](https://github.com/Sakshirai273)
 
--Place: India
--Bio: Google cloud facilitaor program contributor | Web developer 
+- Place: India
+- Bio: Google cloud facilitaor program contributor | Web developer 
 - Github: [Sakshirai273](https://github.com/Sakshirai273)
