@@ -15,3 +15,10 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+
+#### Name: [Shivangi Singh](https://github.com/shivangi17)
+
+- Place: India
+- Bio: Graduate Student 
+- GitHub: [Shivangi1217](https://github.com/shivangi1217)
+
