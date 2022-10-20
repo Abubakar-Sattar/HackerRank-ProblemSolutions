@@ -4,7 +4,9 @@
 Requirement;
 pywhatkit package(Install using command :- pip install pywhatkit)
 you should keep login on whatsapp web before running this script 
+
 """
+
 import pywhatkit
 pywhatkit.sendwhatmsg("+919xxxxxxxxx","HI there, sending whatsapp message using python",18, 30)
 
