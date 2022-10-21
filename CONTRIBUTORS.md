@@ -17,8 +17,16 @@
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
 
 
+#### Name: [Mahnoor Shoukat](https://github.com/MahnoorShoukat)
+
+- Place: Islamabad, Pakistan
+- Bio: Web/App Developer Lead - GDSC 
+- GitHub: [MahnoorShoukat](https://github.com/MahnoorShoukat)
+
+
 #### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed)
 
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited 
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
