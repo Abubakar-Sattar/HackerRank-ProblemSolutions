@@ -17,6 +17,13 @@
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
 
 
+#### Name: [Your Nam](https://github.com/mahnoor26)
+
+- Place: Islamabad, Pakistan
+- Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
+- GitHub: [Mahnoor26](https://github.com/mahnoor)
+
+
 #### Name: [Mahnoor Shoukat](https://github.com/MahnoorShoukat)
 
 - Place: Islamabad, Pakistan
@@ -29,4 +36,5 @@
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited 
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
 
