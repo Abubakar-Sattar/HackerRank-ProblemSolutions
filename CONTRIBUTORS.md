@@ -15,3 +15,7 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+#### Name: [Arnab Sen](https://github.com/ArnabSen1)
+- Place: West BEngal , India 
+- Bio: Student , learning my btech in it dept. 
+- GitHub: [ArnabSen1](https://github.com/ArnabSen1)
