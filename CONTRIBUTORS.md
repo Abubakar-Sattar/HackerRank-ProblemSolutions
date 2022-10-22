@@ -10,6 +10,7 @@
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
 
+
 #### Name: [Hashir Bin Masood](https://github.com/Hashir313)
 
 - Place: Islamabad, Pakistan
