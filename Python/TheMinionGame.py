@@ -1,5 +1,5 @@
-// Name: cocomo
-// Date: 10/4/2022
+# Name: cocomo
+# Date: 10/4/2022
 
 #!/bin/python3
 
