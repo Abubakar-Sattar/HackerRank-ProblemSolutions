@@ -38,3 +38,8 @@
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
 
 
+#### Name: [Samar Ali](https://github.com/Samar-Ali666)
+
+- Place: Islamabad, Pakistan
+- Bio: Fullstack Developer - Software Artisan - GDSC Tech Lead 
+- GitHub: [Samar-Ali666](https://github.com/Samar-Ali666)
