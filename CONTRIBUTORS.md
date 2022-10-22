@@ -9,15 +9,14 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
-- 
-#### Name: [Mahnoor Munir](https://github.com/mahnoor26)
+
+
+
+#### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed)
 
 - Place: Islamabad, Pakistan
-- Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
-- GitHub: [Mahnoor26](https://github.com/mahnoor26)
 
 #### Name: [Muhammad Shakeel](https://github.com/shakeel0581)
-
 - Place: Faisalabad, Pakistan
 - Bio: Full Stack Software Engineer | NERN Stack | React Native | JavaScript/TypeScript | Cloud Evangelist | AWS Serveless Development & Deploymen
 - GitHub: [shakeel0581](https://github.com/shakeel0581)
