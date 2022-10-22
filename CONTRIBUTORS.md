@@ -17,3 +17,9 @@
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [Hashir Bin Masood](https://github.com/Hashir313)
+
+- Place: Islamabad, Pakistan
+- Bio: NUML Student
+- GitHub: [Hashir313](https://github.com/Hashir313)
