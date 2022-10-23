@@ -1,3 +1,6 @@
+//Name: G P S Vishnu vardhan
+// Date: 23/10/2022
+
 void decode_huff(node * root,string s)
 {
    
