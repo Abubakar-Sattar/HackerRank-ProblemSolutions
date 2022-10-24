@@ -17,3 +17,9 @@
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [AFRAS ABOOBACKER P](https://github.com/Afras99)
+
+- Place: Kannur,kerala,India
+- Bio: Student at Cochin University of Science and Technology |AWS AI & ML Scholar ‘22
+- GitHub: [Afras99](https://github.com/Afras99)
