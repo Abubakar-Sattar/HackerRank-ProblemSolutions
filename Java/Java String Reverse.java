@@ -1,30 +1,23 @@
-//Name:Nikhil Srivastava
-//Date:16/10/2022
-import java.io.*;
+/*  Name: Akshat Bokdia
+    Date: 22/10/2022 */
+
 import java.util.*;
 
 public class Solution {
-
+    
     public static void main(String[] args) {
         
-        Scanner sc=new Scanner(System.in);
-        //taking string as input from user
-        String A=sc.next();
-        //Make an empty string to store the input string in reverse order
-        String B="";
+        Scanner sc = new Scanner(System.in);
+        String A = sc.next();
+        A = A.toLowerCase();
+        StringBuffer B = new StringBuffer(A);   
+        B.reverse();
+        String C = new String(B);
         
-        //Traverse the input string from last index and store characters in reverse order in string B
-        for(int i=A.length()-1;i>=0;i--)
-            B=B+A.charAt(i);
-            
-            
-            //compare A and B if both are equal print yes else print no
-            if(A.compareTo(B)==0)
-            System.out.println("Yes");
-            else
-            System.out.println("No");
+        if(A.compareTo(C) == 0)
+            System.out.println(A + " is a palindrome.");
+        else
+            System.out.println(A + " is NOT a palindrome.");
+        sc.close();
     }
 }
-
-
-
