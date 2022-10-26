@@ -1,23 +1,22 @@
-## Abubakar Sattar
+## Alfonso Areiza Guerra
 
 ### Location:
-Islamabad, Pakistan
+São Paulo, Brazil
 
 ### Academics:
-Bachelor of Science in Computer Science.
+Bachelor of Systems Engineering.
 
 ### Skills:
 - Python
-- Data Engineering
-- C++
+- Scrapy, WebApps and Bots.
 - JavaScript
 - HTML/CSS
 
 ### Projects
-- [Google Clone](github.com/AbubakarSattar-dev/GoogleClone)
-- [ETL using Python](github.com/AbubakarSattar-dev/Python-Project-for-Data-Engineering---Extract-Transform-Load)
-- [Flast Weather API](github.com/AbubakarSattar-dev/Flask_Weather_API)
-- [Gender Prediction using Sound](github.com/AbubakarSattar-dev/Gender-Prediction-using-Sound)
+- [Colombian Newspapers](https://github.com/Alfareiza/scrapping-colombian-newspapers)
+- [4yousee](https://github.com/Alfareiza/4yousee)
+- [Discord Bot / Movidesk](https://github.com/Alfareiza/discordbot-movidesk)
+- [Scraping Topdoctors.com.co](https://github.com/Alfareiza/scrapping-topdoctors-com-co)
 
 ### Profile
-- [AbubakarSattar-dev](https://github.com/AbubakarSattar-dev)
+- [Alfareiza](https://github.com/Alfareiza)

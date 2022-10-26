@@ -16,4 +16,11 @@
 
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
-- GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+- GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed
+
+
+#### Name: [Alfonso Areiza Guerra](https://github.com/Alfareiza)
+
+- Place: São Paulo, Brazil
+- Bio: Python Developer at N2Vec
+- GitHub: [Alfareiza](https://github.com/Alfareiza)
