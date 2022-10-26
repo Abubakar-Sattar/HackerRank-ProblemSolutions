@@ -17,3 +17,9 @@
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [HAJRA AFZAL](https://github.com/hajra6)
+
+- Place: Lahore, Pakistan
+- Bio: GDSC Core team member, Internee at Bytewise Limited
+
