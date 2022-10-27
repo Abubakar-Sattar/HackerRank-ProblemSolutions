@@ -10,10 +10,14 @@
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
 
-
-
 #### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed)
 
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [Lucas Pavanelli](https://github.com/pavalucas)
+
+- Place: Rio de Janeiro, Brazil
+- Bio: Applied Scientist at aiXplain
+- GitHub: [pavalucas](https://github.com/pavalucas)
