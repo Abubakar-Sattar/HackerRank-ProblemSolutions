@@ -17,3 +17,9 @@
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [Zain Ali Shah](https://github.com/ShawFromAttock)
+
+- Place: Islamabad, Pakistan
+- Bio: Computer Enginnering student at COMSATS Islamabad, Internee at Bytewise Limited
+- GitHub: [ShawFromAttock](https://github.com/ShawFromAttock)
