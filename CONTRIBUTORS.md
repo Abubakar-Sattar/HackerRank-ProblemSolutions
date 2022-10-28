@@ -17,3 +17,9 @@
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [Sanoj Divakara][(https://github.com/Sanoj-DivJay)]
+
+- Place: Colombo, Sri Lanka
+- Bio: Information systems sciences undergraduate
+- GitHub: [Sanoj-DivJay][(https://github.com/Sanoj-DivJay)]
