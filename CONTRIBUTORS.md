@@ -10,10 +10,14 @@
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
 
-
-
 #### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed)
 
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [Sura Karthikeya](https://github.com/abhinit21)
+
+- Place: Hyderabad, India
+- Bio: GDSC Mentor, Data Engineer
+- GitHub: [ilyas123ahmed](https://github.com/abhinit21)
