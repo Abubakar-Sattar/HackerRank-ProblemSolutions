@@ -15,5 +15,8 @@
 #### Name: [ILYAS AHMED](https://github.com/ilyas123ahmed)
 
 - Place: Islamabad, Pakistan
-- Bio: GDSC MEMBER, Internee at Bytewise Limited
-- GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+#### Name: [Muhammad Shakeel](https://github.com/shakeel0581)
+- Place: Faisalabad, Pakistan
+- Bio: Full Stack Software Engineer | NERN Stack | React Native | JavaScript/TypeScript | Cloud Evangelist | AWS Serveless Development & Deploymen
+- GitHub: [shakeel0581](https://github.com/shakeel0581)
