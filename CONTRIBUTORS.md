@@ -22,4 +22,13 @@
 
 - Place: Islamabad, Pakistan
 - Bio: Computer Enginnering student at COMSATS Islamabad, Internee at Bytewise Limited
-- GitHub: [ShawFromAttock](https://github.com/ShawFromAttock)
+- GitHub: [ShawFromAttock](https://github.com/ShawFromAttock) 
+
+
+#### Name: [Dalila BESSEGHIR] 
+- Place: France, Paris
+- GitHub: [dalila besseghir](https://github.com/dalilabesseghir/HackerRank-ProblemSolutions) 
+
+#### Name: [Kamelia Brahimi] 
+- Place: France, Paris
+- GitHub: [Kamelia Brahimi] 
