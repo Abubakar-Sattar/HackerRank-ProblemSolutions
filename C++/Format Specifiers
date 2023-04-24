@@ -1,0 +1,19 @@
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    int i;
+    long l;
+    char ch;
+    float fl;
+    double d;
+    cout<<"Enter the values in INT, LONG, CHARACTER, FLOAT and DOUBLE : ";
+    cin>>i>>l>>ch>>fl>>d;
+    printf("%d\n",i);
+    printf("%ld\n",l);
+    printf("%c\n",ch);
+    printf("%.3f\n",fl);
+    printf("%.9lf\n",d);
+    return 0;
+}
